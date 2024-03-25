@@ -3,9 +3,9 @@ M11215084 </BR>
 
 
 # SETUP DOCUMENT LOCATION </BR>
-mv cm42a.blif ../abc </BR>
-mv pa1 ../abc/src </BR>
-mv mainInit.c ../abc/src/base/main </BR>
+mv cm42a.blif ../abc/ </BR>
+mv pa1 ../abc/src/ </BR>
+mv mainInit.c ../abc/src/base/main/ </BR>
 
  
 # COMMAND </BR>
